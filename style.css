@@ -1,0 +1,61 @@
+.bg {
+border : 1px solid #000000;
+border-radius: 37px;
+background: linear-gradient (#9c9c9c, #e6e6e6, #000000);
+box-shadow: 27px 27px 77px 40px #848484;
+padding: 17px 40px 40px 40px;
+}
+
+.qwa1{
+color: #ffffff;
+text-align : center;
+padding-top : 7%;
+}
+
+.qwa2{
+color: #ffffff;
+text-align : centre;
+}
+
+.box1{
+background-color: #000000;
+height: 400px;
+width: auto;
+align-items: center;
+font-size:large;
+text-align-last:center;
+}
+
+.img{
+    float: right;
+    padding-top : 44px;
+}
+
+.box2{
+background-color:#ffffff;
+color: black;
+height: 400px;
+width: auto;
+text-align: match-parent;
+text-align: left;
+}
+
+.detl {
+padding : 44px 177px 177px 177px;
+
+color: #ffffff;
+}
+
+h1 {
+    padding-top : 67px;
+    color: #ffffff;
+}
+.qui{
+padding-top : 77px;
+text-align: center;
+font-size: large;
+}
+
+.img1{
+    width: 7%;
+}
